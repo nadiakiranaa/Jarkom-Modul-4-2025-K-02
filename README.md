@@ -10,7 +10,8 @@
 ## Topologi
 Berikut adalah topologi yang digunakan dalam metode CIDR dengan CPT
 
-<img width="2653" height="1257" alt="CIDR FOTO NEW 1" src="https://github.com/user-attachments/assets/2b4bdd62-e0f5-4420-95cf-b00d7215e35f" />
+<img width="1004" height="426" alt="image" src="https://github.com/user-attachments/assets/62174535-d131-4438-a98a-b8f39777d565" />
+
 
 ## Tree CIDR
 Berikut adalah tree yang digunakan dalam metode CIDR dengan CPT
@@ -840,6 +841,7 @@ A23
 # Default route
 post-up route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.212.15.233
 ```
+
 
 
 
