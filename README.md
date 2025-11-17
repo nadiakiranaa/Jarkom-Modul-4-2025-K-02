@@ -13,6 +13,9 @@ Berikut adalah topologi yang digunakan dalam metode CIDR dengan CPT
 <img width="2653" height="1257" alt="CIDR FOTO NEW 1" src="https://github.com/user-attachments/assets/2b4bdd62-e0f5-4420-95cf-b00d7215e35f" />
 
 ## Tree CIDR
+Berikut adalah tree yang digunakan dalam metode CIDR dengan CPT
+![WhatsApp Image 2025-11-17 at 22 54 12_de7fb05b](https://github.com/user-attachments/assets/cff4f71c-0f7e-4c68-9ab9-921ceb9f74e8)
+
 
 ## Penggabungan IP
 ### level 1
@@ -334,6 +337,9 @@ Berikut adalah topologi yang digunakan dalam metode VLSM dengan GSN3
 <img width="5072" height="2944" alt="image" src="https://github.com/user-attachments/assets/9a6b88f8-e844-409c-9cbe-4b40842d3909" />
 
 ## Tree VLSM
+Berikut adalah Tree yang digunakan dalam metode VLSM dengan GSN3
+<img width="1898" height="1678" alt="TREE FIX" src="https://github.com/user-attachments/assets/5ce1bd33-8cf6-4815-a993-c4c73d8631df" />
+
 
 ## Pembagian IP
 | **Nama** | **Network Address** | **Netmask**     | **Broadcast Address** | **Usable IP Range**             |
@@ -834,5 +840,6 @@ A23
 # Default route
 post-up route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.212.15.233
 ```
+
 
 
